@@ -4,4 +4,4 @@ We focus on showcasing the power of using transfer learning on the text summaris
 
 Implementation includes code from [PreSumm GitHub](https://github.com/nlpyang/PreSumm), modified to suit our research purposes.
 
-The complete version (complete.jpynb) goes through the WikiHow dataset pre-processing, models training and evaluation. The demo version (demo.jpynb) compares the model trained from scratch and our best performing model using transfer learning on a small WikiHow test dataset.
+The complete version (complete.jpynb) goes through the WikiHow dataset pre-processing, models training and evaluation. The demo version (demo.jpynb) compares the model trained from scratch and our best performing model using transfer learning on a small WikiHow test dataset. We used Google Colab to have access to GPU and the notebooks are self-contained including downloadable data and code.
